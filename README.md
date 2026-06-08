@@ -69,6 +69,34 @@ https://nawasistem.com/blog/
 - Quality Control Proyek
 - Estate Management
 - Sistem Kerja Modern
+  ## Artikel Terkait
+
+- Cara Monitoring Progress Proyek Perumahan Agar Tidak Berantakan
+  https://nawasistem.com/cara-monitoring-progress-proyek-perumahan-agar-tidak-berantakan/
+
+- Dashboard Monitoring Proyek: Cara Modern Mengontrol Progress Lapangan
+  https://nawasistem.com/dashboard-monitoring-proyek-cara-modern-mengontrol-progress-lapangan/
+
+- Dashboard Proyek Perumahan: Cara Modern Monitoring Progress & Kontrol Proyek
+  https://nawasistem.com/dashboard-proyek-perumahan-cara-modern-monitoring-progress-kontrol-proyek/
+
+- Cara Membaca Deviasi Progress Proyek dan Laba Rugi Kontraktor
+  https://nawasistem.com/dashboard-kontraktor-cara-membaca-deviasi-progress-proyek-dan-laba-rugi-kontraktor/
+
+## Produk Terkait
+
+- Dashboard Proyek Perumahan
+  https://nawasistem.com/dashboard-proyek-perumahan/
+
+- Template Profesional Proyek Konstruksi
+  https://nawasistem.com/template-profesional-proyek-konstruksi/
+
+- Panduan Lapangan Pengawas Proyek
+  https://nawasistem.com/panduan-lapangan-pengawas-proyek/
+
+## Website Resmi
+
+https://nawasistem.com
 
 ## License
 
